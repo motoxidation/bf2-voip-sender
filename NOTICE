@@ -1,0 +1,5 @@
+bf2-voip-sender
+Copyright 2026 motoxidation
+
+The codebooks in src/speex/tables.inc come from libspeex:
+Copyright (C) 2002 Jean-Marc Valin, BSD license (full text at the top of that file).
